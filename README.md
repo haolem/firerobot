@@ -2,10 +2,9 @@
 ![GitHub License](https://img.shields.io/github/license/haolem/firerobot)
 ![STEM](https://img.shields.io/badge/Cuộc_thi-STEM-blue)
 
-Thông tin chung
+Hướng dẫn thiết lập
 ===
-__Robot cứu hỏa v1__ 
+## TẢI ỨNG DỤNG ĐIỀU KHIỂN ĐIỀU KHIỂN
 
-```js
-let USSL = "?";
-```
+1. Truy cập trang dự án [FireRobot](https://github.com/haolem/firerobot)
+2. Chọn vào phần A
