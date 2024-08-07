@@ -1,5 +1,5 @@
 # Robot cứu hỏa v1
 ![GitHub License](https://img.shields.io/github/license/haolem/firerobot)
-![https://img.shields.io/badge/build-passing-brightgreen]
+![STEM](https://img.shields.io/badge/Cuộc_thi-STEM-lightblue)
 
 ===
