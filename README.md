@@ -23,14 +23,15 @@ Hướng dẫn thiết lập
 2. Thay đổi IP bên trong (mặt định là `192.168.4.1`)
 3. Lưu file và chạy lại `view.exe`
 
+## CƠ CẤU FILE
 ```js
  .
  |
- + address.cfg
+ + address.cfg // Cấu hình IP
  |
- + landmarks68.dat
+ + landmarks68.dat // Mô hình nhận dạng khuôn mặt
  |
- + view.exe
+ + view.exe // Ứng dụng
 ```
 
 ## GHI HÌNH
