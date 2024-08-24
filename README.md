@@ -8,7 +8,7 @@ Hướng dẫn thiết lập
 
 1. Truy cập trang dự án [FireRobot](https://github.com/haolem/firerobot).
 2. Chọn vào phần Releases -> Assets -> Chọn phiên bản mới nhất.
-3. Tải xuống file firerobot-camera-view-*.zip
+3. Tải xuống file firerobot-camera-viewer-*.zip
 
 ## SỬ DỤNG ỨNG DỤNG
 
