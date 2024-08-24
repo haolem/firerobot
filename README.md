@@ -23,6 +23,16 @@ Hướng dẫn thiết lập
 2. Thay đổi IP bên trong (mặt định là `192.168.4.1`)
 3. Lưu file và chạy lại `view.exe`
 
+```js
+ .
+ |
+ + address.cfg
+ |
+ + landmarks68.dat
+ |
+ + view.exe
+```
+
 ## GHI HÌNH
 
 Tính năng ghi hình sẽ được kích hoạt tự động ghi lại toàn bộ thời gian từ lúc chạy ứng dụng `view.exe`. Tính năng hiện tại là **cố định**. Khi ta thoát ứng dụng `view.exe` sẽ có một hộp thoại lưu video hiện ra, ta có thể lựa chọn lưu hoặc không. Chất lượng và độ dài video phụ thuộc vào độ phân giải camera của robot và thời gian sử dụng.
