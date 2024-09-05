@@ -7,6 +7,8 @@
 #include <DabbleESP32.h>
 #include <SPI.h>
 
+// MCU Main Controll
+
 #define TFT_CS        4
 #define TFT_RST       22 
 #define TFT_DC        23
